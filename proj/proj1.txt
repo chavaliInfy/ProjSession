@@ -1,3 +1,5 @@
 Welcome to GIT commands
 tests
 test
+
+Completed first session fot GIT
